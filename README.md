@@ -1,3 +1,7 @@
+# DEVELOPED BY : SHALINI K
+
+# REGISTER NUMBER : 212222240095
+
 # Ex.No: 01 A PLOT A TIME SERIES DATA
 ###  Date: 
 
@@ -11,10 +15,6 @@ To Develop a python program to Plot a time series data for the bitcoin dataset
 4. Plot the data according to need and can be altered monthly, or yearly.
 5. Display the graph.
 # PROGRAM:
-
-DEVELOPED BY : SHALINI K
-
-REGISTER NUMBER : 212222240095
 ```py
 import pandas as pd
 import seaborn as sns
